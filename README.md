@@ -4,6 +4,15 @@
 HOW TO RUN
 	The program begins by building a test network. From here a menu will be displayed and the user can choose what to do from there. Any option is availible from the beginning.
 
+For example, selecting 1 will promp the user to "add a dog"
+At which point the user types in the dogs name.
+
+After that they can connect the dog to existing dogs via the "2" option in the menu.
+
+If they don't want to do anything else, they select "6" to quit
+
+
+
 DEPENDANCIES
 None at the memoment
 
